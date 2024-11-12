@@ -114,6 +114,9 @@ body{
 }
 
 /* special */
+#special{
+    margin-top: 3rem;
+}
 .special-img span{
     top: 20px;
     right: 20px;
