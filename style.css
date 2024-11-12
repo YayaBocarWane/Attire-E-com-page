@@ -134,7 +134,7 @@ body{
 
 /* offers */
 #offers{
-    background: url(../images/offer_img.jpg) center/cover no-repeat;
+    background: url(images/offer_img.jpg) center/cover no-repeat;
     margin-top: 5rem;
 }
 #offers .row{
